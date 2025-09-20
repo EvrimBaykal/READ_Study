@@ -1,3 +1,11 @@
 # READ Study
 
-Initial repo setup.
+## Setup
+
+# first time only
+install.packages("renv") 
+
+# installs packages from renv.lock
+renv::restore()            
+
+source("scripts/01_setup.R")
