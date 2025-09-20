@@ -18,7 +18,6 @@
 # renv
 renv/library/
 renv/staging/
-renv.lock
 
 # Credentials/tokens
 .httr-oauth
