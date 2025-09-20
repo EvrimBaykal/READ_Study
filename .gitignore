@@ -15,7 +15,7 @@
 # macOS
 .DS_Store
 
-# renv (if you use it)
+# renv
 renv/library/
 renv/staging/
 renv.lock
