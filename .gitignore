@@ -1,0 +1,29 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj
+.Rprofile
+.Renviron
+
+# Positron / VS Code
+.vscode/
+.history/
+
+# macOS
+.DS_Store
+
+# renv (if you use it)
+renv/library/
+renv/staging/
+renv.lock
+
+# Credentials/tokens
+.httr-oauth
+.env
+
+# Misc
+*.sqlite
+*.rds
